@@ -1,0 +1,76 @@
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\obj\Debug\netcoreapp3.1\01 - API.csprojAssemblyReference.cache
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\obj\Debug\netcoreapp3.1\01 - API.AssemblyInfoInputs.cache
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\obj\Debug\netcoreapp3.1\01 - API.AssemblyInfo.cs
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\obj\Debug\netcoreapp3.1\01 - API.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\obj\Debug\netcoreapp3.1\01 - API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\bin\Debug\netcoreapp3.1\01 - API.exe
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\bin\Debug\netcoreapp3.1\01 - API.deps.json
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\bin\Debug\netcoreapp3.1\01 - API.runtimeconfig.json
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\bin\Debug\netcoreapp3.1\01 - API.runtimeconfig.dev.json
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\bin\Debug\netcoreapp3.1\01 - API.dll
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\bin\Debug\netcoreapp3.1\01 - API.pdb
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\bin\Debug\netcoreapp3.1\02 - Service.dll
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\bin\Debug\netcoreapp3.1\03 - Infrastructure.dll
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\bin\Debug\netcoreapp3.1\03 - Infrastructure.pdb
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\bin\Debug\netcoreapp3.1\02 - Service.pdb
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\obj\Debug\netcoreapp3.1\staticwebassets\01 - API.StaticWebAssets.Manifest.cache
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\obj\Debug\netcoreapp3.1\staticwebassets\01 - API.StaticWebAssets.xml
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\obj\Debug\netcoreapp3.1\scopedcss\bundle\01 - API.styles.css
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\obj\Debug\netcoreapp3.1\01 - API.RazorTargetAssemblyInfo.cache
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\obj\Debug\netcoreapp3.1\01 - API.csproj.CopyComplete
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\obj\Debug\netcoreapp3.1\01 - API.dll
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\obj\Debug\netcoreapp3.1\01 - API.pdb
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\obj\Debug\netcoreapp3.1\01 - API.genruntimeconfig.cache
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\bin\Debug\netcoreapp3.1\01 - API.exe
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\bin\Debug\netcoreapp3.1\01 - API.deps.json
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\bin\Debug\netcoreapp3.1\01 - API.runtimeconfig.json
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\bin\Debug\netcoreapp3.1\01 - API.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\bin\Debug\netcoreapp3.1\01 - API.dll
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\bin\Debug\netcoreapp3.1\01 - API.pdb
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\bin\Debug\netcoreapp3.1\02 - Service.dll
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\bin\Debug\netcoreapp3.1\03 - Infrastructure.dll
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\bin\Debug\netcoreapp3.1\03 - Infrastructure.pdb
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\bin\Debug\netcoreapp3.1\02 - Service.pdb
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\obj\Debug\netcoreapp3.1\01 - API.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\obj\Debug\netcoreapp3.1\01 - API.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\obj\Debug\netcoreapp3.1\01 - API.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\obj\Debug\netcoreapp3.1\01 - API.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\obj\Debug\netcoreapp3.1\01 - API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\obj\Debug\netcoreapp3.1\staticwebassets\01 - API.StaticWebAssets.Manifest.cache
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\obj\Debug\netcoreapp3.1\staticwebassets\01 - API.StaticWebAssets.xml
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\obj\Debug\netcoreapp3.1\scopedcss\bundle\01 - API.styles.css
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\obj\Debug\netcoreapp3.1\01 - API.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\obj\Debug\netcoreapp3.1\01 - API.csproj.CopyComplete
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\obj\Debug\netcoreapp3.1\01 - API.dll
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\obj\Debug\netcoreapp3.1\01 - API.pdb
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\API\obj\Debug\netcoreapp3.1\01 - API.genruntimeconfig.cache

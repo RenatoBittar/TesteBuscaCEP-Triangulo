@@ -1,0 +1,64 @@
+<div>
+  <input [(ngModel)]="valueCep" nome="CEP">
+  <button (click)="buscarCep()">Buscar Cep</button>
+</div>
+<p>OU</p>
+<div>
+  <input [(ngModel)]="valueUF" nome="UF">
+  <button (click)="buscarPorUf()">Buscar por UF</button>
+</div>
+
+<br/><br/>
+<table *ngIf="cep" width="467" border="1px">
+  <tr>
+    <td>Id </td>
+    <td>cep </td>
+    <td>logradouro </td>
+    <td>complemento </td>
+    <td>bairro </td>
+    <td>localidade </td>
+    <td>uf </td>
+    <td>unidade </td>
+    <td>ibge </td>
+    <td>gia </td>
+  </tr>
+  <tr>
+    <td>{{ cep.Id }}</td>
+    <td>{{ cep.cep }}</td>
+    <td>{{ cep.logradouro }}</td>
+    <td>{{ cep.complemento }}</td>
+    <td>{{ cep.bairro }}</td>
+    <td>{{ cep.localidade }}</td>
+    <td>{{ cep.uf }}</td>
+    <td>{{ cep.unidade }}</td>
+    <td>{{ cep.ibge }}</td>
+    <td>{{ cep.gia }}</td>
+  </tr>
+</table>
+
+<table *ngIf="ceps" width="467" border="1px">
+  <tr>
+    <td>Id </td>
+    <td>cep </td>
+    <td>logradouro </td>
+    <td>complemento </td>
+    <td>bairro </td>
+    <td>localidade </td>
+    <td>uf </td>
+    <td>unidade </td>
+    <td>ibge </td>
+    <td>gia </td>
+  </tr>
+  <tr *ngFor="let cep of ceps">
+    <td>{{ cep.Id }}</td>
+    <td>{{ cep.cep }}</td>
+    <td>{{ cep.logradouro }}</td>
+    <td>{{ cep.complemento }}</td>
+    <td>{{ cep.bairro }}</td>
+    <td>{{ cep.localidade }}</td>
+    <td>{{ cep.uf }}</td>
+    <td>{{ cep.unidade }}</td>
+    <td>{{ cep.ibge }}</td>
+    <td>{{ cep.gia }}</td>
+  </tr>
+</table>

@@ -1,0 +1,30 @@
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\Service\obj\Debug\netcoreapp3.1\02 - Service.csprojAssemblyReference.cache
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\Service\obj\Debug\netcoreapp3.1\02 - Service.AssemblyInfoInputs.cache
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\Service\obj\Debug\netcoreapp3.1\02 - Service.AssemblyInfo.cs
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\Service\obj\Debug\netcoreapp3.1\02 - Service.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\Service\bin\Debug\netcoreapp3.1\02 - Service.deps.json
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\Service\bin\Debug\netcoreapp3.1\02 - Service.runtimeconfig.json
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\Service\bin\Debug\netcoreapp3.1\02 - Service.runtimeconfig.dev.json
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\Service\bin\Debug\netcoreapp3.1\02 - Service.dll
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\Service\bin\Debug\netcoreapp3.1\02 - Service.pdb
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\Service\bin\Debug\netcoreapp3.1\03 - Infrastructure.dll
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\Service\bin\Debug\netcoreapp3.1\03 - Infrastructure.pdb
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\Service\obj\Debug\netcoreapp3.1\02 - Service.csproj.CopyComplete
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\Service\obj\Debug\netcoreapp3.1\02 - Service.dll
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\Service\obj\Debug\netcoreapp3.1\02 - Service.pdb
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\Service\obj\Debug\netcoreapp3.1\02 - Service.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\Service\bin\Debug\netcoreapp3.1\02 - Service.deps.json
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\Service\bin\Debug\netcoreapp3.1\02 - Service.runtimeconfig.json
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\Service\bin\Debug\netcoreapp3.1\02 - Service.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\Service\bin\Debug\netcoreapp3.1\02 - Service.dll
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\Service\bin\Debug\netcoreapp3.1\02 - Service.pdb
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\Service\bin\Debug\netcoreapp3.1\03 - Infrastructure.dll
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\Service\bin\Debug\netcoreapp3.1\03 - Infrastructure.pdb
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\Service\obj\Debug\netcoreapp3.1\02 - Service.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\Service\obj\Debug\netcoreapp3.1\02 - Service.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\Service\obj\Debug\netcoreapp3.1\02 - Service.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\Service\obj\Debug\netcoreapp3.1\02 - Service.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\Service\obj\Debug\netcoreapp3.1\02 - Service.csproj.CopyComplete
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\Service\obj\Debug\netcoreapp3.1\02 - Service.dll
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\Service\obj\Debug\netcoreapp3.1\02 - Service.pdb
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\Service\obj\Debug\netcoreapp3.1\02 - Service.genruntimeconfig.cache

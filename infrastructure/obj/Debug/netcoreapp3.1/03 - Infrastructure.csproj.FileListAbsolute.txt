@@ -1,0 +1,29 @@
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\infrastructure\bin\Debug\netcoreapp3.1\03 - Infrastructure.deps.json
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\infrastructure\bin\Debug\netcoreapp3.1\03 - Infrastructure.runtimeconfig.json
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\infrastructure\bin\Debug\netcoreapp3.1\03 - Infrastructure.runtimeconfig.dev.json
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\infrastructure\bin\Debug\netcoreapp3.1\03 - Infrastructure.dll
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\infrastructure\bin\Debug\netcoreapp3.1\03 - Infrastructure.pdb
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\infrastructure\obj\Debug\netcoreapp3.1\03 - Infrastructure.csprojAssemblyReference.cache
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\infrastructure\obj\Debug\netcoreapp3.1\03 - Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\infrastructure\obj\Debug\netcoreapp3.1\03 - Infrastructure.AssemblyInfo.cs
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\infrastructure\obj\Debug\netcoreapp3.1\03 - Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\infrastructure\obj\Debug\netcoreapp3.1\03 - Infrastructure.dll
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\infrastructure\obj\Debug\netcoreapp3.1\03 - Infrastructure.pdb
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\infrastructure\obj\Debug\netcoreapp3.1\03 - Infrastructure.genruntimeconfig.cache
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\infrastructure\obj\Debug\netcoreapp3.1\Cep.resources
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\infrastructure\obj\Debug\netcoreapp3.1\03 - Infrastructure.csproj.GenerateResource.cache
+C:\Users\ricar\Downloads\TesteCandidato\TesteCandidato\infrastructure\obj\Debug\netcoreapp3.1\CEP1.resources
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\infrastructure\bin\Debug\netcoreapp3.1\03 - Infrastructure.deps.json
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\infrastructure\bin\Debug\netcoreapp3.1\03 - Infrastructure.runtimeconfig.json
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\infrastructure\bin\Debug\netcoreapp3.1\03 - Infrastructure.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\infrastructure\bin\Debug\netcoreapp3.1\03 - Infrastructure.dll
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\infrastructure\bin\Debug\netcoreapp3.1\03 - Infrastructure.pdb
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\infrastructure\obj\Debug\netcoreapp3.1\03 - Infrastructure.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\infrastructure\obj\Debug\netcoreapp3.1\03 - Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\infrastructure\obj\Debug\netcoreapp3.1\03 - Infrastructure.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\infrastructure\obj\Debug\netcoreapp3.1\03 - Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\infrastructure\obj\Debug\netcoreapp3.1\03 - Infrastructure.dll
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\infrastructure\obj\Debug\netcoreapp3.1\03 - Infrastructure.pdb
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\infrastructure\obj\Debug\netcoreapp3.1\03 - Infrastructure.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\infrastructure\obj\Debug\netcoreapp3.1\Cep.resources
+C:\Users\DELL\Desktop\Programação\TesteCandidato (1)\TesteCandidato\infrastructure\obj\Debug\netcoreapp3.1\03 - Infrastructure.csproj.GenerateResource.cache
